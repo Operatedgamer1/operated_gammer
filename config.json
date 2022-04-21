@@ -1,0 +1,9 @@
+{
+	"ip":"BFFzsmp.aternos.me:",
+	"port": 17694,
+	"name": "NOTAFKxD",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register 244466666 244466666",
+	"login-cmd":"/login 244466666"
+}
